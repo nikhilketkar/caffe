@@ -7,8 +7,3 @@ rm -rf *
 cmake ..
 make
 make pycaffe
-cd .. # At ~/CAFFE/caffe
-cd .. # At ~/CAFFE
-cd .. # # At ~/
-tar -czf CAFFE.tar.gz CAFFE
-
